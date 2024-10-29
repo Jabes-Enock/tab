@@ -1,3 +1,13 @@
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url("../fonts/Poppins-Regular.ttf");
+  }
+  
+  body {
+    font-family: "Poppins-Regular";
+  }
+
+
 .toolbar{
     height: 80px;
 }
